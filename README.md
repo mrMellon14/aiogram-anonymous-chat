@@ -1,4 +1,4 @@
-# Anonim chat bot with pymongo and aiogram
+# Anonymous chat bot with pymongo and aiogram
 ## How to setup?
 ```python
 pip install -r requirements.txt
@@ -7,5 +7,5 @@ Tokens
  * Get telegram bot token
   * Get Mongodb connect
   
-And insert into main.py 
+And insert into bot.py 
 
